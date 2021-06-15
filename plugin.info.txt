@@ -1,7 +1,7 @@
-base   codemirror
+base   codemirror-fixed
 author Albert Gasset (fix by CosmoCode & ajshea)
 email  albertgasset@fsfe.org
 date   2021-05-15
-name   CodeMirror plugin
+name   CodeMirror-Fixed plugin
 desc   Editor with syntax highlighting
 url    https://github.com/ajshea/dokuwiki-plugin-codemirror/releases/download/latest/dokuwiki-plugin-codemirror.tar.gz
